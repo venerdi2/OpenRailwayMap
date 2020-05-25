@@ -1,0 +1,771 @@
+# OpenRailwayMap Copyright (C) 2018 Alexander Matheisen
+# This program comes with ABSOLUTELY NO WARRANTY.
+# This is free software, and you are welcome to redistribute it under certain conditions.
+# See https://wiki.openstreetmap.org/wiki/OpenRailwayMap for details.
+#
+# Translators:
+# Demetrio Mendozzi <mendem@tiscali.it>, 2020
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenRailwayMap\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-08 12:29+0100\n"
+"PO-Revision-Date: 2020-04-12 17:00+0000\n"
+"Last-Translator: Demetrio Mendozzi <mendem@tiscali.it>\n"
+"Language-Team: Italian"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+msgid "More Info"
+msgstr "Maggiori informazioni"
+
+msgid "Contact"
+msgstr "Contatti"
+
+msgid "Javascript is not activated"
+msgstr "Javascript non è attivo"
+
+msgid "Javascript is needed to show the map and run this website. Please turn on Javascript in your browser settings."
+msgstr "Javascript è necessario per mostrare la mappa ed eseguire questo sito Web. Attiva Javascript nelle impostazioni del tuo browser."
+
+msgid "Loading..."
+msgstr "Caricamento..."
+
+msgid "Nothing found."
+msgstr "Non è stato trovato nulla"
+
+msgid "Last update"
+msgstr "Ultimo aggiornamento"
+
+msgid "Empty input."
+msgstr "Immissione vuota."
+
+msgid "Kilometer"
+msgstr "Chilometro"
+
+msgid "Track"
+msgstr "Percorso"
+
+msgid "Permalink"
+msgstr "Collegamento permanente"
+
+msgid "Hillshading"
+msgstr "Ombreggiatura del terreno"
+
+msgid "Hillshading by <a href='https://www.nasa.gov/'>NASA SRTM</a>"
+msgstr "Ombreggiatura del terreno da <a href='https://www.nasa.gov/'>NASA SRTM</a>"
+
+msgid "Rendering: OpenRailwayMap"
+msgstr "Generazione: OpenRailwayMap"
+
+msgid "Mapnik"
+msgstr "Mapnik"
+
+msgid "Mapnik Grayscale"
+msgstr "Scala di grigi Mapnik"
+
+msgid "Map data &copy; OpenStreetMap contributors"
+msgstr "Dati della mappa &copy; contributori di OpenStreetMap"
+
+msgid "Select a map style"
+msgstr "Seleziona uno stile della mappa"
+
+msgid "Public transport"
+msgstr "Trasporto pubblico"
+
+msgid "Search results"
+msgstr "Risultati della ricerca"
+
+msgid "Search only in the current map view"
+msgstr "Cerca solo nella vista corrente della mappa"
+
+msgid "HTML-Code"
+msgstr "Codice HTML"
+
+msgid "Copy this HTML code snippet into your website to show a small map with a marker."
+msgstr "Copia questa porzione di codice HTML nel tuo sito Web per mostrare una piccola mappa con un marcatore"
+
+msgid "Fullscreen"
+msgstr "Schermo intero"
+
+#, php-format
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] "%d secondo"
+msgstr[1] "%d secondi"
+
+#, php-format
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] "%d minuto"
+msgstr[1] "%d minuti"
+
+#, php-format
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] "%d ora"
+msgstr[1] "%d ore"
+
+#, php-format
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] "%d giorno"
+msgstr[1] "%d giorni"
+
+#, php-format
+msgid "%d week"
+msgid_plural "%d weeks"
+msgstr[0] "%d settimana"
+msgstr[1] "%d settimane"
+
+#, php-format
+msgid "%d month"
+msgid_plural "%d months"
+msgstr[0] "%d mese"
+msgstr[1] "%d mesi"
+
+#, php-format
+msgid "more than %s ago"
+msgstr "più di %s fa"
+
+#, php-format
+msgid "%s ago"
+msgstr "%s fa"
+
+msgid "Infrastructure"
+msgstr "Infrastruttura"
+
+msgid "Signalling"
+msgstr "Segnalazione"
+
+msgid "Maxspeeds"
+msgstr "Velocità massime"
+
+msgid "Electrification"
+msgstr "Elettrificazione"
+
+msgid "Halt"
+msgstr "Fermata"
+
+msgid "Station"
+msgstr "Stazione"
+
+msgid "Junction"
+msgstr "Scambio"
+
+msgid "Yard"
+msgstr "Piazzale di manovra"
+
+msgid "Crossover"
+msgstr "Cambio linea"
+
+msgid "Site"
+msgstr "Sito"
+
+msgid "Service station"
+msgstr "Stazione di servizio"
+
+msgid "Tram stop"
+msgstr "Fermata tranviaria"
+
+msgid "Milestone"
+msgstr "Pietra miliare"
+
+msgid "Signal"
+msgstr "Segnale"
+
+msgid "Level crossing"
+msgstr "Passaggio a livello"
+
+msgid "Crossing"
+msgstr "Attraversamento"
+
+msgid "Legend"
+msgstr "Legenda"
+
+msgid "Bridge"
+msgstr "Ponte"
+
+msgid "Tunnel"
+msgstr "Tunnel"
+
+msgid "Line ref"
+msgstr "Riferimento della linea"
+
+msgid "Railroad line"
+msgstr "Ferrovía"
+
+msgid "Siding"
+msgstr "Binario laterale"
+
+msgid "Yard track"
+msgstr "Binario di manovra"
+
+msgid "Spur"
+msgstr "Binario di servizio interno"
+
+msgid "Crossover track"
+msgstr "Binario di incrocio"
+
+msgid "Branch line"
+msgstr "Diramazione"
+
+msgid "Main line"
+msgstr "Línea principale"
+
+msgid "Highspeed line"
+msgstr "Línea ad alta velocità"
+
+msgid "Industrial line"
+msgstr "Línea industriale"
+
+msgid "Industrial service track"
+msgstr "Binario di servizio industriale"
+
+msgid "Preserved track"
+msgstr "Ferrovia storica"
+
+msgid "Preserved service track"
+msgstr "Binario di servizio storico"
+
+msgid "Track under construction"
+msgstr "Binario in costruzione"
+
+msgid "Proposed track"
+msgstr "Binario proposto"
+
+msgid "Disused track"
+msgstr "Binario in disuso"
+
+msgid "Abandoned track"
+msgstr "Binario abbandonato"
+
+msgid "Razed track"
+msgstr "Binario a raso"
+
+msgid "Tram"
+msgstr "Tranvía"
+
+msgid "Subway"
+msgstr "Metropolitana"
+
+msgid "Light rail"
+msgstr "Treno leggero"
+
+msgid "Narrow gauge track"
+msgstr "Binario a scartamento ridotto"
+
+msgid "Switch (remote-controlled)"
+msgstr "Scambio (operato a distanza)"
+
+msgid "Switch (local operated)"
+msgstr "Scambio (operato localmente)"
+
+msgid "Resetting switch"
+msgstr "Ripristino dello scambio"
+
+msgid "Signal box"
+msgstr "Cabina di manovra"
+
+msgid "Owner change"
+msgstr "Cambio di proprietario"
+
+msgid "Railway crossing"
+msgstr "Passaggio a livello"
+
+msgid "Buffer stop"
+msgstr "Respingente"
+
+msgid "Isolated track section"
+msgstr "Sezione di binario isolata"
+
+msgid "Platform"
+msgstr "Piattaforma"
+
+msgid "Vending machine"
+msgstr "Emettitrice automatica"
+
+msgid "Ticket shop"
+msgstr "Bigliettería"
+
+msgid "Subway entrance"
+msgstr "Ingresso della metropolitana"
+
+msgid "Phone"
+msgstr "Telefono"
+
+msgid "Water tower"
+msgstr "Torre dell'acqua"
+
+msgid "Fuel"
+msgstr "Combustibile"
+
+msgid "Water crane"
+msgstr "Braccio per il carico dell'acqua"
+
+msgid "Coaling facility"
+msgstr "Impianto del carbone"
+
+msgid "Wash"
+msgstr "Lavaggio"
+
+msgid "Pit"
+msgstr "Fossa"
+
+msgid "Loading gauge"
+msgstr "Indicatore di carico"
+
+msgid "Hump yard"
+msgstr "Gobba di servizio"
+
+msgid "Rail brake"
+msgstr "Freno ferroviario"
+
+msgid "Engine shed"
+msgstr "Deposito dei locomotori"
+
+msgid "Workshop"
+msgstr "Laboratorio"
+
+msgid "Radio tower"
+msgstr "Torre radio"
+
+msgid "Turntable"
+msgstr "Piattaforma girevole"
+
+msgid "Traverser"
+msgstr "Piattaforma scorrevole"
+
+msgid "Loading ramp"
+msgstr "Rampa di carico"
+
+msgid "Crane"
+msgstr "Gru"
+
+msgid "Track scale"
+msgstr "Binario di pesa"
+
+msgid "Carrier truck pit"
+msgstr "Fossa per i camion dei corrieri"
+
+msgid "Gauge conversion"
+msgstr "Conversione dello scartamento"
+
+msgid "Gate"
+msgstr "Cancello"
+
+msgid "Museum"
+msgstr "Museo"
+
+msgid "Container terminal"
+msgstr "Terminal container"
+
+msgid "Station building"
+msgstr "Edificio di stazione"
+
+msgid "Factory connected to railroad line"
+msgstr "Fabbrica con accesso ferroviario"
+
+msgid "Rack"
+msgstr "Cremagliera"
+
+msgid "Embankment"
+msgstr "Terrapieno"
+
+msgid "Cutting"
+msgstr "Sbancamento"
+
+msgid "Miniature railway"
+msgstr "Ferrovia in miniatura"
+
+msgid "Funicular"
+msgstr "Funicolare"
+
+msgid "Military line"
+msgstr "Linea militare"
+
+msgid "Military service track"
+msgstr "Binario di servizio di una linea militare"
+
+msgid "Ferry terminal"
+msgstr "Terminal dei traghetti"
+
+msgid "Ferry"
+msgstr "Traghetto"
+
+msgid "Test line"
+msgstr "Linea di prova"
+
+msgid "Test service track"
+msgstr "Binario di servizio di una linea di prova"
+
+msgid "Car shuttle"
+msgstr "Navetta per auto"
+
+msgid "Rolling highway"
+msgstr "Autostrada su ferro"
+
+msgid "Nothing to see in this zoom level. Please zoom in."
+msgstr "Niente da vedere in questo livello di zoom. Ingrandisci."
+
+msgid "Legend not available for this style."
+msgstr "Legenda non disponibile per questo stile."
+
+msgid "Language"
+msgstr "Lingua"
+
+msgid "Desktop version"
+msgstr "Versione desktop"
+
+msgid "Style"
+msgstr "Stile"
+
+msgid "Search"
+msgstr "Ricerca"
+
+msgid "Blog"
+msgstr "Blog"
+
+msgid "No information"
+msgstr "Nessuna informazione"
+
+msgid "speed only given for one direction"
+msgstr "velocità data solo per una direzione"
+
+msgid "main track, service track"
+msgstr "binario principale, binario di servizio"
+
+msgid "Quick search shortcut"
+msgstr "Scorciatoia per la ricerca veloce"
+
+msgid "Placeholder"
+msgstr "Segnaposto"
+
+msgid "Donate"
+msgstr "Dona"
+
+msgid "Tools"
+msgstr "Strumenti"
+
+msgid "Wiki"
+msgstr "Wiki"
+
+msgid "Search milestone"
+msgstr "Ricerca pietra miliare"
+
+msgid "Station code"
+msgstr "Codice stazione"
+
+msgid "Search station"
+msgstr "Ricerca stazione"
+
+msgid "UIC reference"
+msgstr "Riferimento UIC"
+
+msgid "About this project"
+msgstr "A proposito di questo progetto"
+
+msgid "Close"
+msgstr "Chiudi"
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "Line operator"
+msgstr "Operatore della linea"
+
+msgid "Operator"
+msgstr "Operatore"
+
+msgid "More results"
+msgstr "Più risultati"
+
+msgid "Spur junction"
+msgstr "Scambio di spinta"
+
+msgid "No background map"
+msgstr "Nessuna mappa di sfondo"
+
+msgid "Deelectrified"
+msgstr "De-elettrificato"
+
+msgid "No information about train protection"
+msgstr "Nessuna informazione sulla protezione del treno"
+
+msgid "Hp-Lichthauptsignal ohne Angabe der Signalzustände"
+msgstr "Segnale luminoso principale Hp senza indicazione degli stati del segnale"
+
+msgid "Track usage"
+msgstr "Uso del binario"
+
+msgid "Lf 7 Geschwindigkeitssignal"
+msgstr "Segnale di velocità Lf 7"
+
+msgid "%SPDMIN%-%SPDMAX% km/h (disused/under construction)"
+msgstr "%SPDMIN%-%SPDMAX% km/h (in disuso/in costruzione)"
+
+msgid "1.5 – 3kV ="
+msgstr "1.5 – 3kV ="
+
+msgid "ETCS under construction"
+msgstr "ETCS in costruzione"
+
+msgid "3kV ="
+msgstr "3kV ="
+
+msgid "Germany"
+msgstr "Germania"
+
+msgid "Not electrified"
+msgstr "Non elettrificata"
+
+msgid "shunting signal type Ro"
+msgstr "segnale di manovra tipo Ro"
+
+msgid "Track type"
+msgstr "Tipo di binario"
+
+msgid "El 5 \"Bügel an\"-Signal"
+msgstr "El 5 \"Pantografo su\"-Segnale"
+
+msgid "Linienzugbeeinflussung"
+msgstr "Controllo di linea"
+
+msgid "25kV 50Hz ~"
+msgstr "25kV 50Hz ~"
+
+msgid "So 106 Kreuztafel"
+msgstr "So 106 Pannello a croce"
+
+msgid "Ra 11 Wartezeichen mit Sh 1"
+msgstr "Ra 11 Segno di attesa con Sh 1"
+
+msgid "Junction, Crossover, Service Station, Site"
+msgstr "Giunzione, Attraversamento, Stazione di Servizio, Sito"
+
+msgid "Hp-Formhauptsignal ohne Angabe der Signalzustände"
+msgstr "Segnale di forma principale Hp  senza indicazione degli stati del segnale"
+
+msgid "At least 25kV ~"
+msgstr "Minimo 25kV ~"
+
+msgid "minor signal type Lo"
+msgstr "segnale minore tipo Lo"
+
+msgid "Finland"
+msgstr "Finlandia"
+
+msgid "15 – 25kV ~"
+msgstr "15 – 25kV ~"
+
+msgid "ETCS"
+msgstr "ETCS"
+
+msgid "Electrification under construction"
+msgstr "Elettrificazione in costruzione"
+
+msgid "no train protection"
+msgstr "nessuna protezione treno"
+
+msgid "Blockkennzeichen"
+msgstr "Indicatore di blocco"
+
+msgid "Ne 6 Haltepunkttafel"
+msgstr "Ne 6 Pannello del punto di arresto"
+
+msgid "Ne 1 Trapeztafel"
+msgstr "Ne 1 Pannello trapezoidale"
+
+msgid "15kV 16⅔Hz ~"
+msgstr "15kV 16⅔Hz ~"
+
+msgid "Ra 11 Wartezeichen ohne Sh 1 / Wartesignal ohne 'Verschubverbot aufgehoben'"
+msgstr "Ra 11 Segno di attesa senza Sh 1 / Segnale di attesa senza "'divieto di smistamento sollevato'"
+
+msgid "signals"
+msgstr "segnali"
+
+msgid "Ne 5 Haltetafel"
+msgstr "Ne5 Pannello di stop"
+
+msgid "Voltage"
+msgstr "Voltaggio"
+
+msgid "More than 3kV ="
+msgstr "Più di 3kV ="
+
+msgid "Lf 6 Geschwindigkeits­ankündesignal"
+msgstr "Lf 6 Segnale di annuncio della velocità"
+
+msgid "3rd rail"
+msgstr "3° rotaia"
+
+msgid "750 – 1000V ="
+msgstr "750 – 1000V ="
+
+msgid "Less than 15kV ~"
+msgstr "Meno di 15kV ~"
+
+msgid "1kV ="
+msgstr "1kV ="
+
+msgid "crossing signal type To"
+msgstr "segnale di attraversamento tipo To"
+
+msgid "1 – 1.5kV ="
+msgstr "1 – 1.5kV ="
+
+msgid "block signal type So"
+msgstr "segnale di blocco tipo So"
+
+msgid "%SPDMIN%-%SPDMAX% km/h"
+msgstr "%SPDMIN%-%SPDMAX% km/h"
+
+msgid "1.5kV ="
+msgstr "1.5kV ="
+
+msgid "El 2 Einschaltsignal"
+msgstr "El 2 Segnale di accensione treno"
+
+msgid "Ra 10 Rangierhalttafel / Verschubhalttafel"
+msgstr "Ra 10 Pannello di arresto di manovra / Pannello di arresto di smistamento"
+
+msgid "Zs 10 Endesignal (Tafel)"
+msgstr "Zs 10 Segnale fine limite di velocità (pannello)"
+
+msgid "El 1 Ausschaltsignal"
+msgstr "El 1 Segnale di spegnimento treno"
+
+msgid "Ra 11b Wartezeichen"
+msgstr "Ra 11b Cartello in attesa"
+
+msgid "El 6 Halt für Fahrzeuge mit gehobenem Stromabnehmer"
+msgstr "El 6 Stop per veicoli con pantografo rialzato"
+
+msgid "Less than 750V ="
+msgstr "Meno di 750V ="
+
+msgid "Punktförmige Zugbeeinflussung"
+msgstr "Controllo treno puntiforme"
+
+msgid "Operating Sites"
+msgstr "Siti operativi"
+
+msgid "train protection"
+msgstr "protezione treno"
+
+msgid "contact line"
+msgstr "linea di contatto"
+
+msgid "El 4 \"Bügel ab\"-Signal"
+msgstr "El 4 \"Pantografo giù\"-Segnale"
+
+msgid "750V ="
+msgstr "750V ="
+
+msgid "25kV 60Hz ~"
+msgstr "25kV 60Hz ~"
+
+msgid "El 3 \"Bügel ab\"-Ankündigungssignal"
+msgstr "El 3 \"Pantografo giù\"-Segnale di annuncio"
+
+msgid "Electrification proposed"
+msgstr "Elettrificazione proposta"
+
+msgid "El 1v Ausschaltsignal erwarten"
+msgstr "Preavviso segnale di spegnimento EL v1"
+
+msgid "15kV 16.7Hz ~"
+msgstr "15kV 16.7Hz ~"
+
+msgid "Sh-Lichtsperrsignal (normal, Zwergsignal)"
+msgstr "Segnale luminoso di blocco Sh (normale, segnale nano)"
+
+msgid "distant signal with Eo 2 (new type)"
+msgstr "segnale distante con Eo 2 (nuovo tipo)"
+
+msgid "Ks-Hauptsignal"
+msgstr "Segnale principale Ks"
+
+msgid "Bü 5 Läutetafel (normal, für durchfahrende Züge)"
+msgstr "Obbligo di suonare Bü 5 (normale, per i treni di passaggio)"
+
+msgid "Ks-Mehrabschnittssignal (normal, verkürzter Bremswegabstand)"
+msgstr "Segnale multi-sezione Ks (normale, spazio di frenata ridotto)"
+
+msgid "Vr-Lichtvorsignal mit Vr 2 (normal, Wiederholer/verkürzter Bremswegabstand)"
+msgstr "Segnale luminoso Vr con Vr 2 (normale, ripetitore/distanza di frenata ridotta)"
+
+msgid "Bü 2 Rautentafel (normal, verkürzter Bremswegabstand)"
+msgstr "Tabella a diamante Bü 2 (normale, spazio di frenata ridotto)"
+
+msgid "Ks-Vorsignal (normal, Wiederholer, verkürzter Bremswegabstand)"
+msgstr "Segnale distante Ks (normale, ripetitore, distanza di frenata ridotta)"
+
+msgid "Bü 4 Pfeiftafel (normal, für durchfahrende Züge)"
+msgstr "Obbligo di fischio Bü 4 (normale, per il passaggio dei treni)"
+
+msgid "ex-Pf 1 Pfeiftafel (normal, für durchfahrende Züge)"
+msgstr "Obbligo di fischio ex-Pf 1 (normale, per il passaggio dei treni)"
+
+msgid "El 4 \"Bügel ab\"-Signal"
+msgstr "El 4 \"Pantografo giù\"-Segnale"
+
+msgid "Vr-Formvorsignal ohne Angabe der Signalzustände"
+msgstr "Pre-segnale Vr senza indicazione degli stati del segnale"
+
+msgid "Vr-Formvorsignal (ohne Vr 2, mit Vr 2)"
+msgstr "Forma segnale distante Vr (senza Vr 2, con Vr 2)"
+
+msgid "main signal without aspects given (new type, old type)"
+msgstr "segnale principale senza aspetti dati (nuovo tipo, vecchio tipo)"
+
+msgid "Hp-Lichthauptsignal (ohne Hp 2, mit Hp 2)"
+msgstr "Segnale luminoso principale Hp (senza Hp 2, con Hp 2)"
+
+msgid "main signal with Po 1 (new type, old type)"
+msgstr "segnale principale con Po 1 (nuovo tipo, vecchio tipo)"
+
+msgid "main signal with Po 2 (new type, old type)"
+msgstr "segnale principale con Po 2 (nuovo tipo, vecchio tipo)"
+
+msgid "El 3 \"Bügel ab\"-Ankündigungssignal"
+msgstr "El 3 \"Pantografo giù\"-Segnale di annuncio"
+
+msgid "distant signal with Eo 1 (new type, old type)"
+msgstr "segnale distante con Eo 1 (nuovo tipo, vecchio tipo)"
+
+msgid "Vr-Lichtvorsignal ohne Vr 2 (normal, Wiederholer/verkürzter Bremswegabstand)"
+msgstr "Segnale luminoso Vr senza Vr 2 (normale, ripetitore/distanza di frenata ridotta)"
+
+msgid "Sh-Formsperrsignal (normal, Zwergsignal)"
+msgstr "Segnale di blocco forma Sh (normale, segnale nano)"
+
+msgid "Sv-Signal (ohne Hp 0, mit Hp 0)"
+msgstr "Segnale Sv (senza Hp 0, con Hp 0)"
+
+msgid "Hp-Formhauptsignal (ohne Hp 2, mit Hp 2)"
+msgstr "Forma segnale principale Hp (senza Hp 2, con Hp 2)"
+
+msgid "El 5 \"Bügel an\"-Signal"
+msgstr "El 5 \"Pantografo su\"-Segnale"
+
+msgid "Vr-Lichtvorsignal ohne Angabe der Signalzustände (normal, Wiederholer/verkürzter Bremswegabstand)"
+msgstr "Segnale luminoso Vr senza indicazione degli stati del segnale (normale, ripetitore/distanza di frenata ridotta)"
+
+msgid "distant signal without aspects given (new type, old type)"
+msgstr "segnale distante senza aspetti dati (nuovo tipo, vecchio tipo)"
+
+msgid "Zs 3v Geschwindigkeits­voranzeiger (Tafel, Lichtsignal)"
+msgstr "Indicatore di velocità Zs 3v (Pannello, Segnale luminoso)"
+
+msgid "Zs 3 Geschwindigkeits­anzeiger (Tafel, Lichtsignal)"
+msgstr "Indicatori di velocità Zs 3 (Pannello, Segnale luminoso)"
+
+msgid "Imprint &amp; Privacy Policy"
+msgstr "Imprint &amp; Privacy Policy"
